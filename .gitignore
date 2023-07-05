@@ -1,0 +1,6 @@
+# In questo file vengono chiariti i path delle directory ed i files che verranno ignorati da GIT,
+# nelle varie operazioni di add, pull, push ecc.
+
+*.class
+bin/
+.classpath
